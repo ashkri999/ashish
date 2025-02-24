@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ashish ReadMe</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Working with Ashish!</h1>
+    </header>
+    
+    <section>
+        <h2>Introduction</h2>
+        <p>Every product (and human!) has a happy path, ways it can malfunction, and methods for getting the most value from it. I’m like a product in those ways. And like a product, evaluate me by my happy path and edge cases.</p>
+        <p>My goal for this document is to share my operating system — how I think and work — so that you get a sense of what it would be like to partner with me as your manager & teammate.</p>
+    </section>
+    
+    <section>
+        <h2>About My Team</h2>
+        <h3>Leadership Principles</h3>
+        <ul>
+            <li><strong>Cultivate a Learning Culture:</strong> Mistakes are valuable opportunities to grow and improve.</li>
+            <li><strong>Respect Breeds Candor:</strong> Open and honest communication is built on mutual respect.</li>
+            <li><strong>Strategy is Saying No:</strong> Prioritizing what truly matters is key to success.</li>
+            <li><strong>Debate with Goodwill:</strong> Healthy debates drive innovation and team cohesion.</li>
+            <li><strong>Work Should Be Fun:</strong> A positive work environment boosts creativity and efficiency.</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>How I Build Product</h2>
+        <ul>
+            <li><strong>Think Big and Work Small:</strong> Focus on small milestones while keeping the vision in mind.</li>
+            <li><strong>Salute the Buyer, Sit with the User:</strong> Balance the needs of both buyers and users.</li>
+            <li><strong>Bet on the Customer:</strong> Customer feedback drives the best solutions.</li>
+            <li><strong>Failure as a Stepping Stone:</strong> Learning from failure leads to better outcomes.</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>About Me as a Manager</h2>
+        <p>My top priority is to create the conditions for you and the team to be wildly successful. Winning is fun, and our chances of winning go up when we’re world-class at what we do—both as individuals and as a team.</p>
+    </section>
+    
+    <section>
+        <h2>About Me as a Co-worker</h2>
+        <ul>
+            <li><strong>Flexible with Feedback:</strong> I welcome feedback with an open mind.</li>
+            <li><strong>Introverted but Focused:</strong> I do my best work after time for independent reflection.</li>
+            <li><strong>Calendar-Driven:</strong> I rely on my calendar for scheduling and prioritization.</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>Thank you for reading! I welcome clarifying questions and refinements.</p>
+    </footer>
+</body>
+</html>
+
