@@ -1,6 +1,6 @@
 const pdfContainer = document.getElementById('pdf-container');
 
-pdfjsLib.getDocument('path/to/your/pdf.pdf').promise.then(function(pdf) {
+pdfjsLib.getDocument('./AshishReadMe.pdf').promise.then(function(pdf) {
     pdf.getPage(1).then(function(page) {
         const scale = 1.5;
         const viewport = page.getViewport({scale: scale});
