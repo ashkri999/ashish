@@ -1,14 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PDF Viewer</title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        iframe {
+            width: 80%;
+            height: 90vh;
+            border: none;
+        }
+    </style>
 </head>
 <body>
-    <div id="pdf-container"></div>
-<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.15.407/build/pdf.min.js"></script>
-    <script src="
-https://mozilla.github.io/pdf.js/build/pdf.js"></script>
-    <script src="pdf-viewer.js"></script> 
+    <h1>PDF Viewer</h1>
+    <iframe src="AshishReadMe.pdf"></iframe>
 </body>
 </html>
+
